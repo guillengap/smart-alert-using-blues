@@ -1,8 +1,8 @@
 # Smart Alert Using Blues and Machine Learning
-## A. Fonder contents: 
-### 1. Daataset preparation: All files used for model training.
-### 2. Model training: Deployment model (arduino library).
-### 3. Source code: All codes used.
+## A. Folder contents: 
+#### 1. Daataset preparation: All files used for model training.
+#### 2. Model training: Deployment model (arduino library).
+#### 3. Source code: All codes used.
 ## Detailed documentation of the project yo can find here: 
 ### [Smart Alert Using Blues and Machine Learning](https://www.hackster.io/guillengap/smart-alert-using-blues-and-machine-learning-3bffa4)
 ## B. First demonstration: Video 1 (device powered by PC)
